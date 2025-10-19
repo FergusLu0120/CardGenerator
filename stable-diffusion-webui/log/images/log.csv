@@ -1,0 +1,4 @@
+prompt,seed,width,height,sampler,cfgs,steps,filename,negative_prompt
+"Magical Starry Background, Cute Bunny Character, Lively and Passionate, Logical and Intelligent, Red White Light Blue Palette, Joyful Pose,  Pure Visual Aesthetics,[ [[Stars]]] <lora:fallguys:1>,8K",3031132086,536,840,DPM++ 2M Karras,7,20,00000-3031132086.png,"HUMAN,girl"
+"Magical Starry Background, Cute Bunny Character, Lively and Passionate, Logical and Intelligent, Red White Light Blue Palette, Joyful Pose,  Pure Visual Aesthetics,[ [[Crystal Ball]]] <lora:fallguys:1>,8K",1465635050,540,840,DPM++ 2M Karras,5,20,00001-1465635050.png,"HUMAN,girl"
+"Magical Starry Background, Cute Bunny Character, Lively and Passionate, Logical and Intelligent, Red White Light Blue Palette, Joyful Pose,  Pure Visual Aesthetics,[ [[Crystal Ball]]] <lora:fallguys:1>,8K",1465635050,540,840,DPM++ 2M Karras,5,20,00002-1465635050.png,"HUMAN,girl"

@@ -1,0 +1,8 @@
+ 磁碟區 C 中的磁碟是 OS
+ 磁碟區序號:  A654-3CBE
+
+ C:\Users\XRLab\OneDrive\桌面\Card\stable-diffusion-webui\venv\Scripts 的目錄
+
+2025/08/26  下午 06:03           266,664 python.exe
+               1 個檔案         266,664 位元組
+               0 個目錄  1,323,844,825,088 位元組可用
