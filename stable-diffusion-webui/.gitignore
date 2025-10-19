@@ -1,3 +1,5 @@
+/extensions
+/repositories
 /models/**/*
 /venv
 ._*
